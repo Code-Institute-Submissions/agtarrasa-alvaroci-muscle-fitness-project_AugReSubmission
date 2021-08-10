@@ -402,6 +402,9 @@ footer h3 {
   .wrapper {
     flex-wrap: wrap;
   }
+  .menu-hamburger {
+    margin-top: 70px;
+  }
 }
 
 @media screen and (max-width: 480px) {
@@ -441,5 +444,8 @@ footer h3 {
 
   .img-section .img {
     width: 100%;
+  }
+  .menu-hamburger {
+    margin-top: 50px;
   }
 }
