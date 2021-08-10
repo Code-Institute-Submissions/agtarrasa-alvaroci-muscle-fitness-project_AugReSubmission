@@ -146,11 +146,11 @@ Further Testing
 
 The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
 
-- Google Chrome - ![alt](./assets/img/testing/Chrome.png)
+- Google Chrome - ![alt](./assets/img/testing/Chrome.jpg)
 
-- Microsoft Edge - ![alt](./assets/img/testing/Edge.png)
+- Microsoft Edge - ![alt](./assets/img/testing/Edge.jpg)
 
-- Opera - ![alt](./assets/img/testing/Opera.png)
+- Opera - ![alt](./assets/img/testing/Opera.jpg)
 
 The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
 
