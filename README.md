@@ -146,21 +146,21 @@ Further Testing
 
 The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
 
-- Google Chrome - [View ↣](./assets/img/testing/Chrome.png)
+- Google Chrome - ![alt](./assets/img/testing/Chrome.png)
 
-- Microsoft Edge - [View ↣](./assets/img/testing/Edge.png)
+- Microsoft Edge - ![alt](./assets/img/testing/Edge.png)
 
-- Opera - [View ↣](./assets/img/testing/Opera.png)
+- Opera - ![alt](./assets/img/testing/Opera.png)
 
 The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
 
-- Desktop - [View ↣](./assets/img/testing/Desktop.png)
+- Desktop - ![alt](./assets/img/testing/Desktop.png)
 
-- Iphone 6,7,8 - [View ↣](./assets/img/testing/iphone6,7,8.png)
+- Iphone 6,7,8 - ![alt](./assets/img/testing/iphone6,7,8.png)
 
-- Iphone X - [View ↣](./assets/img/testing/iphoneX.png)
+- Iphone X - ![alt](./assets/img/testing/iphoneX.png)
 
-- Ipad - [View ↣](./assets/img/testing/tablet.png)
+- Ipad - ![alt](./assets/img/testing/tablet.png)
 
 A large amount of testing was done to ensure that all pages were linking correctly.
 Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
